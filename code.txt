@@ -1,2 +1,0 @@
-echo "india"
-echo "study"
